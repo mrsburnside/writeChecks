@@ -1,3 +1,9 @@
+I created this project in order to provide a code sample for a propsective freelance gig.  If you decide to use it, I hope it helps you. 
+
+Linda Burnside
+
+========================================================================
+
 Attribution-ShareAlike 4.0 International
 
 =======================================================================
